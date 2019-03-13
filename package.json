@@ -19,10 +19,14 @@
   "dependencies": {
     "@nestjs/common": "^5.0.0",
     "@nestjs/core": "^5.0.0",
+    "@nestjs/graphql": "5.5.7",
     "@nestjs/microservices": "^5.0.0",
     "@nestjs/testing": "^5.0.0",
     "@nestjs/websockets": "^5.0.0",
+    "apollo-server-express": "2.4.8",
     "fastify-formbody": "^2.0.0",
+    "graphql": "14.1.1",
+    "graphql-tools": "4.0.4",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^6.0.0",
     "typescript": "^2.6.2"
